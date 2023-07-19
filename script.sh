@@ -1,0 +1,1 @@
+OMP_NUM_THREADS=1 ./DMRG 8 1 0.5 0 > SimulationData-File_N-8_h-1_J1-0.5_J2-0.txt &
